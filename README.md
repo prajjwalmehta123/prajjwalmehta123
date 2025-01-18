@@ -50,5 +50,3 @@ Developed a custom GPT-2-based language model with novel transformer layers for 
 - LinkedIn: [prajjwalmehta077](https://linkedin.com/in/prajjwalmehta077)
 - Email: pm8607@g.rit.edu
 
----
-⭐️ From [prajjwalmehta123](https://github.com/prajjwalmehta123)
