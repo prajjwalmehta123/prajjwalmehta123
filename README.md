@@ -40,10 +40,10 @@ Software Developer specializing in Cloud Technologies, AI, and Machine Learning.
 
 ## 🏆 Featured Projects
 
-### 🤖 Data-Driven Chatbot with RAG and LLMs
+### 🤖 [Data-Driven Chatbot with RAG and LLMs](https://github.com/prajjwalmehta123/RAGS-Chatbot)
 A sophisticated chatbot leveraging Large Language Models and Retrieval-Augmented Generation for dynamic information retrieval. Built using Hugging Face transformers and Faiss for enhanced response accuracy.
 
-### 📝 Custom GPT-2 Transformer Model (KAN-GPT-2)
+### 📝 [Custom GPT-2 Transformer Model (KAN-GPT-2)](https://github.com/prajjwalmehta123/KAN-GPT-2)
 Developed a custom GPT-2-based language model with novel transformer layers for improved text generation tasks. Implemented using Hugging Face and TensorFlow.
 
 ## 📫 Get in Touch
