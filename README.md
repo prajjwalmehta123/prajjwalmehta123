@@ -44,7 +44,7 @@ Software Developer specializing in Cloud Technologies, AI, and Machine Learning.
 A sophisticated chatbot leveraging Large Language Models and Retrieval-Augmented Generation for dynamic information retrieval. Built using Hugging Face transformers and Faiss for enhanced response accuracy.
 
 ### 📝 [Custom GPT-2 Transformer Model (KAN-GPT-2)](https://github.com/prajjwalmehta123/KAN-GPT-2)
-Developed a custom GPT-2-based language model with novel transformer layers for improved text generation tasks. Implemented using Hugging Face and TensorFlow.
+Developed a custom GPT-2-based language model with novel transformer layers for improved text generation tasks. Implemented using KAN, which led to better accuracy with (~25% fewer) non-embedding weights.
 
 ## 📫 Get in Touch
 - LinkedIn: [prajjwalmehta077](https://linkedin.com/in/prajjwalmehta077)
