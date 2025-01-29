@@ -16,6 +16,7 @@ Software Developer specializing in Cloud Technologies, AI, and Machine Learning.
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -39,6 +40,9 @@ Software Developer specializing in Cloud Technologies, AI, and Machine Learning.
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
 ## 🏆 Featured Projects
+
+### 🚀 [High-Performance LeNet-5 CNN Implementation](https://github.com/prajjwal123/lenet5)
+A robust C++ convolutional neural network implementation featuring OpenMP parallelization and CUDA acceleration. Improved MNIST classification through optimized matrix operations, cache-friendly memory patterns, and hybrid CPU-GPU processing, demonstrating up to 3x speedup compared to sequential implementations.
 
 ### 🤖 [Data-Driven Chatbot with RAG and LLMs](https://github.com/prajjwalmehta123/RAGS-Chatbot)
 A sophisticated chatbot leveraging Large Language Models and Retrieval-Augmented Generation for dynamic information retrieval. Built using Hugging Face transformers and Faiss for enhanced response accuracy.
