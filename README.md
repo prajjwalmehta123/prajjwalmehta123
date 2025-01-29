@@ -41,7 +41,7 @@ Software Developer specializing in Cloud Technologies, AI, and Machine Learning.
 
 ## 🏆 Featured Projects
 
-### 🚀 [High-Performance LeNet-5 CNN Implementation](https://github.com/prajjwalmehta123/Lenet5)
+### 🚀 [CNN with CUDA/C++ Parallel Processing](https://github.com/prajjwalmehta123/Lenet5)
 A robust C++ convolutional neural network implementation featuring OpenMP parallelization and CUDA acceleration. Improved MNIST classification through optimized matrix operations, cache-friendly memory patterns, and hybrid CPU-GPU processing, demonstrating up to 3x speedup compared to sequential implementations.
 
 ### 🤖 [Data-Driven Chatbot with RAG and LLMs](https://github.com/prajjwalmehta123/RAGS-Chatbot)
