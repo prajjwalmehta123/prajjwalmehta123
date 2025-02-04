@@ -44,6 +44,9 @@ Software Developer specializing in Cloud Technologies, AI, and Machine Learning.
 ### 🚀 [CNN with CUDA/C++ Parallel Processing](https://github.com/prajjwalmehta123/Lenet5)
 A robust C++ convolutional neural network implementation featuring OpenMP parallelization and CUDA acceleration. Improved MNIST classification through optimized matrix operations, cache-friendly memory patterns, and hybrid CPU-GPU processing, demonstrating up to 3x speedup compared to sequential implementations.
 
+### 🛸 [Autonomous Robot Navigation with SAC-RL](https://github.com/prajjwalmehta123/robot_nav)
+Engineered a PyTorch-based reinforcement learning system for autonomous robot navigation using Soft Actor-Critic (SAC) architecture. Features curriculum learning across 6 difficulty levels, achieving 85%+ success rate in complex environments. Implemented custom vectorized environments with PyBullet physics simulation, demonstrating advanced obstacle avoidance using 360° LiDAR sensing and adaptive reward shaping, resulting in 40% faster training convergence than baseline implementations.
+
 ### 🤖 [Data-Driven Chatbot with RAG and LLMs](https://github.com/prajjwalmehta123/RAGS-Chatbot)
 A sophisticated chatbot leveraging Large Language Models and Retrieval-Augmented Generation for dynamic information retrieval. Built using Hugging Face transformers and Faiss for enhanced response accuracy.
 
